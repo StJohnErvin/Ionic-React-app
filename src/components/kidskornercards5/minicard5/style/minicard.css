@@ -1,0 +1,24 @@
+
+.card-content-ios.card-red {
+    text-align: left;
+
+    padding-left: unset;
+    padding-right: unset;
+    -webkit-padding-start: 16px;
+    padding-inline-start: 16px;
+    -webkit-padding-end: 16px;
+    padding-inline-end: 16px;
+    background: #C4037F;
+    margin-bottom: 0rem!important;
+
+}
+
+
+.bilog{
+
+    overflow: visible;
+    border-radius: 100%;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+}
