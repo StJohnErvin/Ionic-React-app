@@ -1,0 +1,7 @@
+{
+  "name": "app-tritag",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

@@ -1,0 +1,13 @@
+{
+  "appId": "org.example.app-tritag",
+  "appName": "App-Tritag",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  },
+  "cordova": {}
+}
